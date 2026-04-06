@@ -186,5 +186,4 @@ node server.js
 ---
 
 ## Author
-
-Your Name
+Rahul Raj
